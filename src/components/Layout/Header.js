@@ -1,7 +1,7 @@
 import React from "react";
 import classes from './Header.module.css';
 import reactMeals from '../Assets/meals.jpg';
-import HeaderCartButton from "./HeaderCartButton";
+import HeaderCartButton from "../Layout/HeaderCartButton";
 
 const Header = (props) => {
   return (
